@@ -1,0 +1,5 @@
+python3 crowdsignals_ch7_classification.py
+python3 crowdsignals_ch7_classification.py
+python3 crowdsignals_ch7_classification.py 
+clear
+python3 crowdsignals_ch7_classification.py 
